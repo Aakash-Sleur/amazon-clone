@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+I have developed Amazon clone using React js, Styled components and using firebase as the database. It is inspired from the amazon clone developed by clever programmer with added featured.\
+Features:
+ - Login using Google and GitHub
+ - Add to cart
+ - Preview products
+ - Cart preview
+ - Add mutiple items of the same product
+
+## Live Demo:
+Here is a live-demo of my project:\
+  https://clone-e40a1.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
