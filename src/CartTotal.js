@@ -21,6 +21,7 @@ export default CartTotal
 // Style section
 
 const Container = styled.div`
+
     flex: 0.3;
     padding: 20px;
     width: 100%;
